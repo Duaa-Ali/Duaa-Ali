@@ -2,7 +2,7 @@
 
 **`Frontend Developer/Graphic Artist`**
 
-I'm a newbie frontend developer and experienced artist building my version of the digital world one step at a time. Every repo you see here is a checkpoint in my ongoing adventure in tech, so feel free to check them out! 
+I'm a frontend developer and experienced artist building my version of the digital world one step at a time. Every repo you see here is a checkpoint in my ongoing adventure in tech, so feel free to check them out! 
 ---
 ![](https://github.com/Duaa-Ali/Duaa-Ali/blob/main/cat.gif)
 
