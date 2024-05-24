@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Duaa</h1>
-<h3 align="center">A passionate frontend developer and graphic artist</h3>
+
+**`Frontend Developer/Graphic Artist`**
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/be/ff/f8/befff814786a8151f7e666e4a01edd67.gif")
+
+I'm a newbie frontend developer and experienced artist building my version of the digital world one step at a time. Every repo you see here is a checkpoint in my ongoing adventure in tech, so feel free to check them out! 
+---
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
