@@ -9,7 +9,7 @@ I'm a newbie frontend developer and experienced artist building my version of th
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/duaa--ali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duaa--ali/" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/duaa--ali/](https://github.com/Duaa-Ali)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="duaa--ali/" height="30" width="40" /></a> 
+<a href="https://github.com/Duaa-Ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="duaa--ali/" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages:</h3>
